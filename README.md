@@ -39,7 +39,7 @@ In this Challenge, I’ll use various techniques to train and evaluate models wi
                 0       1.00      0.99      0.91      1.00      0.95      0.91     18765
                 1       0.85      0.91      0.99      0.88      0.95      0.90       619
 
-      avg / total       0.99      0.99      0.91      0.99      0.95      0.91     19384
+               avg / total       0.99      0.99      0.91      0.99      0.95      0.91     19384
 
 
 * Machine Learning Model 2: Logistic Regression Model using the RandomOverSampler to reample the date Orignal Data
@@ -58,7 +58,7 @@ In this Challenge, I’ll use various techniques to train and evaluate models wi
             0       1.00      0.99      0.99      1.00      0.99      0.99     18765
             1       0.84      0.99      0.99      0.91      0.99      0.99       619
 
-  avg / total       0.99      0.99      0.99      0.99      0.99      0.99     19384
+            avg / total       0.99      0.99      0.99      0.99      0.99      0.99     19384
 
 
 ## Summary
