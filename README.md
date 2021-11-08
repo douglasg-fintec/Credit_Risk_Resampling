@@ -9,8 +9,8 @@ In this Challenge, I’ll use various techniques to train and evaluate models wi
 * The origial data set contained 75036 healthy loans and 2500 risky loans.
 
 * The Original Data is an imbalancesd data that is composed of:
-    1) 75036 loans with  a "healthy" loan status of '0'
-    2) 2500 loans with a "risky" loan status of '1' 
+    * 75036 loans with  a "healthy" loan status of '0'
+    * 2500 loans with a "risky" loan status of '1' 
 
 * The stages of the machine learning process undertaken consisted of: 
 
@@ -33,7 +33,8 @@ In this Challenge, I’ll use various techniques to train and evaluate models wi
       [   56   563]]
  
    * Classification Report:
-                          pre       rec       spe        f1       geo       iba       sup
+                          
+                         pre       rec       spe        f1       geo       iba       sup
 
                 0       1.00      0.99      0.91      1.00      0.95      0.91     18765
                 1       0.85      0.91      0.99      0.88      0.95      0.90       619
@@ -51,6 +52,7 @@ In this Challenge, I’ll use various techniques to train and evaluate models wi
   
  
   * Classification Report
+  * 
                       pre       rec       spe        f1       geo       iba       sup
 
             0       1.00      0.99      0.99      1.00      0.99      0.99     18765
